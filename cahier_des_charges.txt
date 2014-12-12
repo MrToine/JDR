@@ -1,0 +1,37 @@
+Liste des fonctions possibles :
+-> Créer un jeu de rôle
+-> Créer des classes de personnages
+-> Créer des sorts
+-> Créer des villes/villages/lieux divers
+-> Créer une carte du monde
+-> Combattre
+-> Chercher dans son inventaire
+-> Fuir un combat
+-> Créer un personnage
+-> Créer un scénario
+-> Créer des évenements
+-> Créer des tâches qui se répéte après x temps
+-> Créer des objets (équipements, consomable)
+-> Créer des personnages non joueur
+-> Créer une guilde
+-> Gérer une guilde
+-> Chat de guilde
+
+List of possible functions:
+-> Create a role play
+-> Create character classes
+-> Create spells
+-> Create towns / villages / various locations
+-> Create a world map
+-> Fighting
+-> Search inventory
+-> Flee a fight
+-> Create Character
+-> Create a script
+-> Create events
+-> Create tasks that repeats after x time
+-> Create objects (equipment, items)
+-> Create non-player characters
+-> Create a Guild
+-> Manage guild
+-> Guild Chat
